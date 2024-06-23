@@ -1,3 +1,10 @@
+<!-- Anggota Kelompok :
+     1. Muhammad Chairul Anam (2211104072)
+     2. Muhammad Imam Al Amin (2211104077)
+     3. Chayla Ravanelly Quintitawati (2211104082)
+     4. Muhammad Agam Nasywaan (2211104085)
+     5. Namirah Salsabila (2211104087) -->
+     
 <?php include "components/header.php"; ?>
 <!-- Hero -->
 <div class="banner-image w-100 vh-100">
